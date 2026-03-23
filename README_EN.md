@@ -67,7 +67,7 @@ manually. No external servers. No friction. Just control.
 **regioc3pi0**
 
 - GitHub: [@regioc3pi0](https://github.com/regioc3pi0)
-- Portfolio: [Bad Sector Labs](https://github.com/regioc3pi0/BadSector-Portafolio)
+- Portfolio: [Bad Sector Labs](https://github.com/regioc3pi0/Budget_lens-Portafolio)
 
 ---
 
